@@ -1,4 +1,3 @@
-#include <iostream>
 #include "function0.h"
 using namespace std;
 int knapSack(int w, int wt[], int val[], int n)
